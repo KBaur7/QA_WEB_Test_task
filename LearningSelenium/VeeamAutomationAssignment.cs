@@ -33,7 +33,7 @@ namespace QA_WEB_Test_task
             NavigateToVeeamURL();
 
             //USA, Texas
-            // For some Reason Austin city not available in the "All cities" dropdown, so I am using only Texas ¯\_(ツ)_/¯
+            // For some Reason Austin city not available in the "All cities" dropdown, so I used only Texas ¯\_(ツ)_/¯
 
             SelectDepartment(DepartmentXpath);
 
